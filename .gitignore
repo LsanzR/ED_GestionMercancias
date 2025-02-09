@@ -3,12 +3,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-# User-specific stuff:
-**/.idea/workspace.xml
-**/.idea/tasks.xml
-**/.idea/dictionaries
-**/.idea/vcs.xml
-**/.idea/jsLibraryMappings.xml
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -19,13 +13,7 @@ target/
 *.iml
 *.ipr
 
-# Sensitive or high-churn files:
-**/.idea/dataSources.ids
-**/.idea/dataSources.xml
-**/.idea/dataSources.local.xml
-**/.idea/sqlDataSources.xml
-**/.idea/dynamic.xml
-**/.idea/uiDesigner.xml
+
 
 ### Eclipse ###
 .apt_generated
