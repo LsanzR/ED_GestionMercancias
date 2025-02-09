@@ -57,7 +57,7 @@ public class Mercancia {
     }
 
     /**
-     * Sobreescribe el metodo mostrarInfo para representar la mercancia
+     * Sobreescribe el metodo toStiring para representar la mercancia
      *
      * @return String con la informacion de la mercancia
      *
