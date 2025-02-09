@@ -5,9 +5,6 @@
 
 package Ejercicio_0;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Entry point que gestiona las mercancias del software
  */
