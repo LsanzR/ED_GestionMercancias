@@ -42,7 +42,7 @@ public class SistemaTransporte implements Transporte{
 
     /**
      * Elimina una mercancia de la lista
-     * 
+     *
      * @param nombre
      */
     public void eliminarMercancia(String nombre) {
